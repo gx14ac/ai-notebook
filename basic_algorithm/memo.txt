@@ -1,0 +1,2 @@
+##  multiplication layer(*)
+in the situation, reversed x to y by backward.
